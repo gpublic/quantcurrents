@@ -1,2 +1,2 @@
 # quantcurrents
-quantifying with r
+turning data to insights
